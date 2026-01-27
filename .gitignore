@@ -11,6 +11,7 @@ config/examples/production.yaml
 # Ignore markdown files except project docs
 *.md
 !CLAUDE.md
+!DEVELOPMENT_PLAN.md
 !**/README.md
 
 # Frontend build artifacts (for local development)
